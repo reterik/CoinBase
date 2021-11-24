@@ -1,7 +1,7 @@
 # CoinBase
 Coinbase Trading Bots
 
-LSTM Machine Learned Trading Bot for CoinBase
+LSTM Machine Learned Trading Bot for CoinBase Pro
 
 This script takes the past 300 minutes of prices and places the average value mean into the predicate variable.
 
