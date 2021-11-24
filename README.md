@@ -1,0 +1,2 @@
+# CoinBase
+Coinbase Trading Bots
