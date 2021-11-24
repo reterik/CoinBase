@@ -24,3 +24,5 @@ rounder = sys.argv[5]
 You will also want to tweak these variable conditions according to your need:
 
     if (predicate <= 0.02 and (dictionary > 0)) and (difference <= 0.001 and (dictionary > 0)) and (average <= 0.001 and (dictionary > 0)):
+
+Just ask for help if you need it I should respond.  This should work in Linux and Windows and Mac.
